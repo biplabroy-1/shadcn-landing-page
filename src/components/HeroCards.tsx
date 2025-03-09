@@ -28,8 +28,8 @@ export const HeroCards = () => {
           </Avatar>
 
           <div className="flex flex-col">
-            <CardTitle className="text-lg">John Doe React</CardTitle>
-            <CardDescription>@john_doe</CardDescription>
+            <CardTitle className="text-lg">Dron Guin</CardTitle>
+            <CardDescription>@dron_guin</CardDescription>
           </div>
         </CardHeader>
 
@@ -44,9 +44,9 @@ export const HeroCards = () => {
             alt="user avatar"
             className="absolute grayscale-[0%] -top-12 rounded-full w-24 h-24 aspect-square object-cover"
           />
-          <CardTitle className="text-center">Leo Miranda</CardTitle>
+          <CardTitle className="text-center">Dron Guin</CardTitle>
           <CardDescription className="font-normal text-primary">
-            Frontend Developer
+            Founder
           </CardDescription>
         </CardHeader>
 
@@ -126,7 +126,7 @@ export const HeroCards = () => {
           </div>
 
           <CardDescription>
-            Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.
+            Some random description about the plan of the product azmth
           </CardDescription>
         </CardHeader>
 
@@ -162,8 +162,8 @@ export const HeroCards = () => {
           <div>
             <CardTitle>Light & dark mode</CardTitle>
             <CardDescription className="text-md mt-2">
-              Lorem ipsum dolor sit amet consect adipisicing elit. Consectetur
-              natusm.
+              some details about the service that i dont know
+              also i dont know what to write here
             </CardDescription>
           </div>
         </CardHeader>
